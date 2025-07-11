@@ -42,7 +42,7 @@ Displays both purchase and sale data in separate tabs within a new window using 
 
 ## Technologies Used
 
-- **Python 3.x**
+- **Python **
 - **Tkinter**: For building the graphical user interface.
 - **Pandas**: For handling data and writing/reading from CSV files.
 - **CSV Files**: For persistent storage of purchase and sale records.
